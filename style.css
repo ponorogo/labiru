@@ -1,0 +1,64 @@
+@import "font/font.css";
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    user-zoom: none;
+    -webkit-user-select: none;
+    -webkit-user-zoom: none;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PlusJakarta-Sans-Bold", Sans-Serif;
+    line-height: 1.3;
+    margin: 0;
+}
+strong {
+    font-family: "PlusJakarta-Sans-Medium", Sans-Serif;
+    line-height: 1.3;
+    margin: 0;
+}
+p {
+    font-family: "PlusJakarta-Sans-Regular", Sans-Serif;
+    line-height: 1.3;
+    margin: 0;
+}
+i {
+    font-family: "PlusJakarta-Sans-Italic", Sans-Serif;
+    line-height: 1.3;
+    margin: 0;
+}
+a {
+    font-family: "PlusJakarta-Sans-Regular", Sans-Serif;
+    text-decoration: none;
+    outline: none;
+    line-height: 1.3;
+    margin: 0;
+}
+button {
+    font-family: "PlusJakarta-Sans-Regular", Sans-Serif;
+    text-decoration: none;
+    outline: none;
+    line-height: 1.3;
+    border: none;
+    margin: 0;
+}
+input {
+    font-family: "PlusJakarta-Sans-Regular", Sans-Serif;
+    text-decoration: none;
+    outline: none;
+    line-height: 1.3;
+    border: none;
+    margin: 0;
+}
+textarea {
+    font-family: "PlusJakarta-Sans-Regular", Sans-Serif;
+    text-decoration: none;
+    outline: none;
+    line-height: 1.3;
+    border: none;
+    margin: 0;
+}
