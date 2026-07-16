@@ -1,0 +1,45 @@
+@font-face {
+    font-family: PlusJakarta-Sans-Bold;
+    src: url("plusjakarta-sans-bold.eot");
+    src: url("plusjakarta-sans-bold.eot") format("embedded-opentype"),
+         url("plusjakarta-sans-bold.ttf") format("truetype"),
+         url("plusjakarta-sans-bold.svg") format("svg"),
+         url("plusjakarta-sans-bold.woff") format("woff"),
+         url("plusjakarta-sans-bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: PlusJakarta-Sans-Medium;
+    src: url("plusjakarta-sans-medium.eot");
+    src: url("plusjakarta-sans-medium.eot") format("embedded-opentype"),
+         url("plusjakarta-sans-medium.ttf") format("truetype"),
+         url("plusjakarta-sans-medium.svg") format("svg"),
+         url("plusjakarta-sans-medium.woff") format("woff"),
+         url("plusjakarta-sans-medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: PlusJakarta-Sans-Regular;
+    src: url("plusjakarta-sans-regular.eot");
+    src: url("plusjakarta-sans-regular.eot") format("embedded-opentype"),
+         url("plusjakarta-sans-regular.ttf") format("truetype"),
+         url("plusjakarta-sans-regular.svg") format("svg"),
+         url("plusjakarta-sans-regular.woff") format("woff"),
+         url("plusjakarta-sans-regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: PlusJakarta-Sans-Italic;
+    src: url("plusjakarta-sans-italic.eot");
+    src: url("plusjakarta-sans-italic.eot") format("embedded-opentype"),
+         url("plusjakarta-sans-italic.ttf") format("truetype"),
+         url("plusjakarta-sans-italic.svg") format("svg"),
+         url("plusjakarta-sans-italic.woff") format("woff"),
+         url("plusjakarta-sans-italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: CherryBombOne-Regular;
+    src: url("cherrybombone-regular.eot");
+    src: url("cherrybombone-regular.eot") format("embedded-opentype"),
+         url("cherrybombone-regular.ttf") format("truetype"),
+         url("cherrybombone-regular.svg") format("svg"),
+         url("cherrybombone-regular.woff") format("woff"),
+         url("cherrybombone-regular.woff2") format("woff2");
+}
